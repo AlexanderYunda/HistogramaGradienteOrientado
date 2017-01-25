@@ -1,7 +1,7 @@
 #include "hog.h"
 #include <time.h> 
 
-#define DIR_CEDA_PASO "E:/RESPALDOS/PRUEBAS TESIS/Muestras Bien/1.jpg"
+#define DIR_CEDA_PASO "E:/1.jpg" //Direccion de la imagen a utilizar
 #define ancho_Imagen 32 //tamaño en pixeles
 #define alto_Imagen 32 //tamaño en pixeles
 #define ancho_Celda 4 //tamaño en pixeles
