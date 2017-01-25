@@ -2,13 +2,13 @@
 #include <time.h> 
 
 #define DIR_CEDA_PASO "E:/RESPALDOS/PRUEBAS TESIS/Muestras Bien/1.jpg"
-#define ancho_Imagen 32
-#define alto_Imagen 32
-#define ancho_Celda 4
-#define alto_Celda 4
-#define ancho_Bloque 2
-#define alto_Bloque 2
-#define orientaciones 9
+#define ancho_Imagen 32 //tamaño en pixeles
+#define alto_Imagen 32 //tamaño en pixeles
+#define ancho_Celda 4 //tamaño en pixeles
+#define alto_Celda 4 //tamaño en pixeles
+#define ancho_Bloque 2 //tamaño en celdas
+#define alto_Bloque 2 //tamaño en celdas
+#define orientaciones 9 //division del rango de orientacion del gradiente entre -pi/2 hasta pi/2
 
 
 
